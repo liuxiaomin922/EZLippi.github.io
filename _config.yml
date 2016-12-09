@@ -24,12 +24,12 @@ JB :
   IMAGE_PATH : http://coolshell.info/images
 
 # presonal config
-domain: http://coolshell.info
-title: Lippi-浮生志
+domain: http://0313.name
+title: 小米-前端技术博客
 description: Draw my life with code
-author: Lippi.OuYang
-email: ouyanglip@gmail.com
-github: LippiOuYang
+author: liuxiaomin922
+email: 104415117@qq.com
+github: liuxiaomin922
 
 config:
   js_dir:
